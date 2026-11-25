@@ -1,0 +1,26 @@
+{
+  "name": "复变研习室 · 复变函数与积分变换",
+  "short_name": "复变研习室",
+  "description": "八章复习、公式速查和习题详解",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "zh-CN",
+  "theme_color": "#f4f7f6",
+  "background_color": "#f4f7f6",
+  "icons": [
+    {
+      "src": "./icons/review-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/review-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
